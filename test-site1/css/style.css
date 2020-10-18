@@ -1,0 +1,25 @@
+html {
+  background-color: #FAFBA7;
+}
+body {
+  background-color: #f5d2a7;
+  border: 5px solid #e05a9b;
+  margin: 50px;
+  width: auto;
+}
+h1 {
+  text-align: center;
+}
+p#mainText {
+  padding: 0 0 0 20px;
+  font-size: 30px;
+  text-align: center;
+}
+img#торт {
+  width: auto;
+  display: block;
+  margin: 20px auto;
+}
+li {
+
+}
